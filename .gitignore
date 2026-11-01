@@ -1,0 +1,14 @@
+# Build artifacts
+/flow-local
+/flow-unlock
+/dist/
+
+# Go
+*.test
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
